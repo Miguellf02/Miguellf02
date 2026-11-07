@@ -2,7 +2,7 @@
 **Engineer · Madrid · Licensed to ship.**
 
 I build AI systems that solve real problems, not demos.
-By day, I modernize financial consolidation platforms for large enterprises (Oracle EPM @ Deloitte).
+By day, I modernize financial platforms for large enterprises (Oracle EPM @ Deloitte).
 By night, I build the tools I actually use.
 
 **Current assignments**
