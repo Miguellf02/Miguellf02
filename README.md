@@ -7,7 +7,7 @@ By night, I build the tools I actually use.
 
 **Current assignments**
 - **[training-agent-mcp](https://github.com/Miguellf02/training-agent-mcp)**: the smallest useful MCP server (2 tools, 1 resource) plus two Claude Code subagents that review my training week and plan the next one. Every number is computed in code; the LLM never does arithmetic.
-- **quantum-network-analyzer**: anomaly detection on QKD network metrics from Madrid's quantum communication infrastructure (Isolation Forest, Autoencoders). BSc thesis, 9.4/10. Private repo: the datasets are confidential.
+- **[quantum-network-analyzer](https://github.com/Miguellf02/quantum-network-analyzer)**: anomaly detection on QKD network metrics from Madrid's quantum communication infrastructure (Isolation Forest, Autoencoders). BSc thesis, 9.4/10.
 
 **Standard issue**
 Python · Pydantic v2 · LLM agents & MCP · AWS · Observability
