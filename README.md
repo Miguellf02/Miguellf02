@@ -1,5 +1,5 @@
 ### Miguel López Ferreiro
-**Computer Engineer · Madrid**
+**AI Engineer · BSc Computer Engineering (UPM) · Madrid**
 
 I build AI systems where the model does the reasoning and the code does the maths.
 Day job: modernizing enterprise finance platforms and building AI agents on top of them (Oracle EPM @ Deloitte).
